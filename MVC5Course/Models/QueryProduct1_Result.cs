@@ -11,7 +11,7 @@ namespace MVC5Course.Models
 {
     using System;
     
-    public partial class QueryProduct_Result
+    public partial class QueryProduct1_Result
     {
         public int ProductId { get; set; }
         public string ProductName { get; set; }
